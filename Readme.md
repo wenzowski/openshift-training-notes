@@ -7,6 +7,12 @@ OpenShift Training Notes
 - [Console] access is managed by membership in [BCDevOps] github group.
 - Help is available on [Rocket.Chat] in the [appropriate channels].
 
+Platform Support
+----------------
+- Check chat first. Application support not provided, only *platform* support.
+- Phone 250-387-7000
+- 77000@gov.bc.ca
+
 [Arctiq]: https://www.arctiq.ca/
 [Resources]: https://pathfinder-faq-ocio-pathfinder-prod.pathfinder.gov.bc.ca/
 [tools]: https://github.com/BCDevOps/openshift-developer-tools
