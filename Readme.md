@@ -1,11 +1,11 @@
 OpenShift Training Notes
 ========================
 
-OCIO DevOps runs the cluster.
-[Arctiq] provides support.
-[Resources] and [tools] available.
-[Console] access is managed by membership in [BCDevOps] github group.
-Help is available on [Rocket.Chat] in the [appropriate channels].
+- OCIO DevOps runs the cluster.
+- [Arctiq] provides support.
+- [Resources] and [tools] available.
+- [Console] access is managed by membership in [BCDevOps] github group.
+- Help is available on [Rocket.Chat] in the [appropriate channels].
 
 [Arctiq]: https://www.arctiq.ca/
 [Resources]: https://pathfinder-faq-ocio-pathfinder-prod.pathfinder.gov.bc.ca/
